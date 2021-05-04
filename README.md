@@ -1,3 +1,3 @@
 {
-  "ویدیو": "https://8pic.ir/uploads/378060-339.mp4"
+  "ویدیو": "https://aspb1.cdn.asset.aparat.com/aparat-video/ce7904ecca2feb4a91ac5cf6bd4e092a15919322-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImMzMWFlYzJlOWI4NTY2ZTg1ZDRkM2M5YjBmZTQ3OTVmIiwiZXhwIjoxNjIwMTMwMDEwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.0P3RGifkKwOfHJ2wHc28fkdRgqgXH2LAoCekeBOJKtI"
 }
